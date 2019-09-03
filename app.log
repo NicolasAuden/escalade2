@@ -1,0 +1,5 @@
+21:54:08.819 [http-bio-8080-exec-3] INFO  com.nicolas.ocp6.webapp.controllers.ControllerLogin - quitte checkPassword
+21:54:08.822 [http-bio-8080-exec-3] INFO  com.nicolas.ocp6.webapp.controllers.ControllerLogin - {user=Member{id=2, firstName='Caroline', surname='Pierre', nickname='Caropic', password='gygy654!', email='caroline@hotmail.com', phone='0033611224352', dateMembership=2019-08-12}}
+21:55:21.751 [http-bio-8080-exec-2] INFO  com.nicolas.ocp6.webapp.controllers.ControllerSpots - enter method displaySpots
+21:55:21.873 [http-bio-8080-exec-2] INFO  com.nicolas.ocp6.webapp.controllers.ControllerSpots - after call method detailledInfoBasedOnLocation
+21:55:21.889 [http-bio-8080-exec-2] INFO  com.nicolas.ocp6.webapp.controllers.ControllerSpots - after call method filterLocations
