@@ -1,0 +1,9 @@
+com/nicolas/ocp6/webapp/controllers/ControllerLibrairy.class
+com/nicolas/ocp6/webapp/controllers/ControllerGuidebooks.class
+com/nicolas/ocp6/webapp/controllers/ControllerAddContent.class
+com/nicolas/ocp6/webapp/controllers/ControllerAddGuidebook.class
+com/nicolas/ocp6/webapp/controllers/ControllerAutoComplete.class
+com/nicolas/ocp6/webapp/controllers/ControllerAddComment.class
+com/nicolas/ocp6/webapp/controllers/ControllerLogin.class
+com/nicolas/ocp6/webapp/controllers/ControllerAdmin.class
+com/nicolas/ocp6/webapp/controllers/ControllerSpots.class

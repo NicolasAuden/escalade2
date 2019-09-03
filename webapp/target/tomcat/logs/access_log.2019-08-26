@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [26/Aug/2019:20:33:22 +0200] "GET /escalade/addcontent/spot HTTP/1.1" 200 2742 http-bio-8080-exec-10 1367
+0:0:0:0:0:0:0:1 - - [26/Aug/2019:20:33:22 +0200] "GET /webjars/jquery/3.0.0/jquery.min.js HTTP/1.1" 200 32768 http-bio-8080-exec-10 6
+0:0:0:0:0:0:0:1 - - [26/Aug/2019:20:33:22 +0200] "GET /webjars/bootstrap/4.2.1/js/bootstrap.min.js HTTP/1.1" 200 24576 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [26/Aug/2019:20:33:22 +0200] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [26/Aug/2019:20:36:31 +0200] "GET / HTTP/1.1" 200 7761 http-bio-8080-exec-1 773
+0:0:0:0:0:0:0:1 - - [26/Aug/2019:20:36:31 +0200] "GET /resources/img/hauteMontage.jpg HTTP/1.1" 200 567642 http-bio-8080-exec-2 8

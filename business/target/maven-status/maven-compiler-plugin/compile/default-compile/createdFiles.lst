@@ -1,0 +1,9 @@
+com/nicolas/ocp6/business/Utils.class
+com/nicolas/ocp6/business/ServiceSpotComment.class
+com/nicolas/ocp6/business/ServiceLogin.class
+com/nicolas/ocp6/business/ServiceLocation.class
+com/nicolas/ocp6/business/ServiceMember.class
+com/nicolas/ocp6/business/ServiceSpot.class
+com/nicolas/ocp6/business/ServiceMemberLibrairy.class
+com/nicolas/ocp6/business/ServiceGuidebook.class
+com/nicolas/ocp6/business/ServiceRoute.class

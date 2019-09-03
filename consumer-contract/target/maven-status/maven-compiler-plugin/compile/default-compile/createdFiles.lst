@@ -1,0 +1,7 @@
+com/nicolas/ocp6/consumer/contract/dao/LocationDao.class
+com/nicolas/ocp6/consumer/contract/dao/GuidebookDao.class
+com/nicolas/ocp6/consumer/contract/dao/SpotCommentDao.class
+com/nicolas/ocp6/consumer/contract/dao/RouteDao.class
+com/nicolas/ocp6/consumer/contract/dao/SpotDao.class
+com/nicolas/ocp6/consumer/contract/dao/MemberDao.class
+com/nicolas/ocp6/consumer/contract/dao/MemberLibrairyDao.class
